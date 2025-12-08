@@ -13,7 +13,7 @@ He Hu⁴, Weizhong Zhang²†, Cheng Jin², Jiao Yuan⁵⁶†, Yu Li¹†
 ⁶Guangzhou Medical University  
 
 Emails: victorwu@link.cuhk.edu.hk, weizhongzhang@fudan.edu.cn, yuanjiao@gzlab.ac.cn, liyu@cse.cuhk.edu.hk  
-(*Equal contribution, †Corresponding authors*)
+(\*Equal contribution, †Corresponding authors*)
 
 ---
 
